@@ -9,11 +9,19 @@ Chạy file này bằng: python ex01_hello.py
 
 # TODO 1: In ra dòng chữ "Hello, World!"
 # Viết code ở đây:
+<<<<<<< HEAD
 print("Hello, World!")
 
 # TODO 2: In ra tên của bạn trên một dòng riêng
 # Viết code ở đây:
 print("My name is Long.")
+=======
+
+
+# TODO 2: In ra tên của bạn trên một dòng riêng
+# Viết code ở đây:
+
+>>>>>>> 20e39715d1295b2f1f95638c76ed6f333d78fc33
 
 # TODO 3: In ra 3 điều bạn thích, mỗi điều trên một dòng
 # Ví dụ:
@@ -21,9 +29,12 @@ print("My name is Long.")
 # Tôi thích nghe nhạc
 # Tôi thích code Python
 # Viết code ở đây:
+<<<<<<< HEAD
 print("I like playing football.")
 print("I like listening to music.")
 print("I like reading books.")
+=======
+>>>>>>> 20e39715d1295b2f1f95638c76ed6f333d78fc33
 
 
 # TODO 4: In ra một hình chữ nhật bằng dấu *
@@ -33,10 +44,14 @@ print("I like reading books.")
 # *   *
 # *****
 # Viết code ở đây:
+<<<<<<< HEAD
 print("*****")
 print("*   *")
 print("*   *")
 print("*****")
+=======
+
+>>>>>>> 20e39715d1295b2f1f95638c76ed6f333d78fc33
 
 # TODO 5 (Thử thách): In ra tên bạn bằng ký tự đặc biệt
 # Ví dụ nếu tên là "HI":
@@ -46,10 +61,14 @@ print("*****")
 # H   H   I
 # H   H  III
 # Viết code ở đây:
+<<<<<<< HEAD
 print("L       OOOO   N   N   GGGG")
 print("L      O    O  NN  N  G")
 print("L      O    O  N N N  G  GG")
 print("L      O    O  N  NN  G   G")
 print("LLLLL   OOOO   N   N   GGGG")
+=======
+
+>>>>>>> 20e39715d1295b2f1f95638c76ed6f333d78fc33
 
 # Starter chưa hoàn thành: chỉ có output khi sinh viên tự viết các TODO.
